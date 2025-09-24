@@ -50,5 +50,7 @@ public class MathApp {
         double dayMilliseconds = dayMinutes*60000;
         System.out.println(dayNumber+" days have "+dayMinutes+" minutes; or  "+dayMilliseconds+" milliseconds.");
 
+        //End! Yippee!!
+
     }
 }
